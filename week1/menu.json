@@ -1,0 +1,72 @@
+{
+    "hot sandwiches": [
+        {
+            "name" : "club royal",
+            "bread" : "toasted croissant",
+            "meat" : ["smoked turkey breast", "ham", "bacon"],
+            "cheese" : ["swiss", "cheddar"],
+            "condiments" : ["honey mustard"]
+        },
+        {
+            "name" : "cheese burger",
+            "bread" : "bun",
+            "meat" : ["hamburger", "bacon"],
+            "cheese" : ["american", "cheddar"],
+            "condiments" : ["ketchup", "mustard"]
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name" : "ham",
+            "bread" : "toasted croissant",
+            "meat" : ["smoked turkey breast", "ham", "bacon"],
+            "cheese" : ["swiss", "cheddar"],
+            "condiments" : ["honey mustard"]
+        },
+        {
+            "name" : "turkey",
+            "bread" : "toasted croissant",
+            "meat" : ["smoked turkey breast", "ham", "bacon"],
+            "cheese" : ["swiss", "cheddar"],
+            "condiments" : ["honey mustard"]
+        }
+    ],
+    "appetizers" : [
+        {
+            "name" : "slider",
+            "bread" : "bun",
+            "meat" : ["hamburger", "bacon"],
+            "cheese" : ["american", "cheddar"],
+            "condiments" : ["ketchup", "mustard"]
+        },
+        {
+            "name" : "nachos",
+            "meat" : ["hamburger", "bacon", "pulled pork"],
+            "cheese" : ["american", "nacho cheese"]
+        }
+    ],
+    "drinks" : [
+        {
+            "name" : "coke" ,
+            "size" : ["small", "medium", "large"]
+            
+        },
+        {
+            "name" : "pepsi",
+            "size" : ["small", "medium", "large"]
+            
+        }
+    ],
+    "desserts" : [
+        {
+            "name" : "vanilla ice cream",
+            "container" : ["cup", "cone"],
+            "condiments" : ["chocolate syrup", "carmel", "sprinkles"]
+        },
+        {
+            "name" : "chocolate ice cream",
+            "container" : ["cup", "cone"],
+            "condiments" : ["chocolate syrup", "carmel", "sprinkles"]
+        }
+    ]
+}   
